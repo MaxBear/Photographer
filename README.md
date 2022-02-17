@@ -5,3 +5,4 @@
 5. check usage by running "./schduler --help"
 6. run scheduler by executing command "./schedule -input schedule.json"
 7. the output file is saved as "[input_filename].output"
+8. test
